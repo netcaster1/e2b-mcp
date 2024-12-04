@@ -21,6 +21,8 @@ npm run watch
 
 ## Installation
 
+Modify your e2b sandbox template ID in `e2b.toml` and `src/index.ts` file.
+
 To use with Claude Desktop, add the server config:
 
 On MacOS: `~/Library/Application Support/Claude/claude_desktop_config.json`
