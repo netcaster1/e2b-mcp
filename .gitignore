@@ -2,3 +2,4 @@ node_modules/
 build/
 *.log
 .env*
+e2b.toml
